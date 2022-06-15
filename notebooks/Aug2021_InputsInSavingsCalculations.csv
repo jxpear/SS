@@ -1,0 +1,13 @@
+Variables,Values
+Flow Rate,2.5
+Flow Restriction Factor,0.1
+Water Cost,5.6
+Sewage Water Cost,9
+Hot Set point,125
+Inlet Temp,50
+Gas RE Percent,0.6
+Gas Cost Dollars Per Therm,0.94
+Electric Resist RE Percent,0.8
+Electric Heat Pump COP,2.2
+Electric Cost Dollars Per kWh,0.15
+Effective DateTime,2/2/21 0:00

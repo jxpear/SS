@@ -1,0 +1,17 @@
+Variables,Values
+Water Used(gals),1018.13
+Water Saved(gals),263.17
+Gas Usage(therms),10.60
+Gas Saved(therms),2.74
+Electricity Usage (kWh),233.03
+Electricity Saved (kWh),60.23
+Electricity Usage with Heatpump (kWh),84.74
+Electricity Saved with Heatpump (kWh),21.90
+Water Saved($),1.47
+Sewage Saved($),2.37
+Gas Saved($),2.58
+Electric Saved($),9.04
+Electric Saved with Heatpump($),3.29
+Total Saved with Gas($),6.42
+Total Saved with Electric($),12.88
+Total Saved with Heatpump($),7.13
