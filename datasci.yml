@@ -1,0 +1,24 @@
+name: datasci
+channels:
+  - conda-forge
+  - defaults
+dependencies:   
+  - mysql-connector-python
+  - pymysql
+  - pyppeteer
+  - pytz
+  - numpy
+  - pandas
+  - statsmodels 
+  - scipy
+  - seaborn 
+  - matplotlib
+  - pandoc
+  - pandoc-crossref
+  - beautifulsoup4
+  - pip 
+  - pip:
+     - nbimporter
+     - DateTime
+     - finstmt
+prefix: /Users/jennyli/ShowerStream/shower-stream-env # path to install conda environment
